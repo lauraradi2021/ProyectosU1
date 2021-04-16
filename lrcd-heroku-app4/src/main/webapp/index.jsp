@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : Apr 15, 2021, 10:21:14 PM
-    Author     : luisg
+    Author     : laura
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -12,7 +12,7 @@
         <meta charset="UTF-8">
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link href="WEB-INF/MisEstilos.css" rel="stylesheet" type="text/css"/>
+        <link href="MisEstilos.css" rel="stylesheet" type="text/css"/>
 
     </head>
  <body>
