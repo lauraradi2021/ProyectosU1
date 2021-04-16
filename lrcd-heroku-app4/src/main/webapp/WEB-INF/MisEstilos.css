@@ -1,0 +1,30 @@
+body{
+    width: 900px;
+    margin: auto;
+    background-color: azure;
+    border: double;
+   
+}
+h1{
+    color: blue;
+    margin: auto;
+    align-self: center;
+}
+h2{
+    color: blue;
+    margin: auto;
+    align-self: center;
+}
+#hide-me {
+  width: 100px;
+  height: 100px;
+  background: #bf7130;
+  display: block;
+  padding: 10px;
+  margin: 0 15px 0 0;
+  font-size: 14px;
+  font-weight: bold;
+  float: left;
+  text-align: center;
+  background: rgba(0, 0, 0, .15);
+}
