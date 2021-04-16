@@ -4,16 +4,15 @@
     Author     : luisg
 --%>
 
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
     <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head>
-        [{"id":1,"answer":"1. Se hace una prueba para ver que falla
-2. Se hace un c贸digo b谩sico para que la prueba pase
-3. Se refactoriza ese c贸digo b谩sico"}
+        <body></[{"id":1,"answer":"1. Se hace una prueba para ver que falla
+2. Se hace un c骴igo b醩ico para que la prueba pase
+3. Se refactoriza ese c骴igo b醩ico"}
 ,{"id":2,"answer":"get, post, put y delete"}
 ,{"id":3,"answer":"AJAX y XML"}
-,{"id":4,"answer":"Es una funci贸n que pasa a otra funci贸n como argumento"}
+,{"id":4,"answer":"Es una funci髇 que pasa a otra funci髇 como argumento"}
 ,{"id":5,"answer":"Como registra los cambios de forma local y push actualiza remotamente"}]
     </body>
 </html>

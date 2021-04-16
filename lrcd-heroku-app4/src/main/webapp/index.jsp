@@ -65,7 +65,7 @@ function myFunction(response) {
 }
 
 var xmlhttp1 = new XMLHttpRequest();
-var url2 ="http://mavf4unisabana.herokuapp.com/parcial2";
+var url2 ="http://lcrd4unisabana.herokuapp.com/respuesta.jsp";
 
 xmlhttp1.onreadystatechange=function() {
   if (this.readyState == 4 && this.status == 200) {
